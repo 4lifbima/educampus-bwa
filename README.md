@@ -196,6 +196,7 @@ Pastikan sistem Anda memiliki:
 5. **Jalankan migrasi**
    ```bash
    php artisan migrate
+   php artisan migrate:refresh --seed
    ```
 
 6. **Seed database (opsional)**
