@@ -125,16 +125,6 @@
                 </p>
             @endif
         </div>
-
-        <!-- Demo Credentials -->
-        <div class="mt-6 p-4 bg-white rounded-2xl shadow-sm">
-            <p class="text-sm font-medium text-foreground mb-2">Demo Credentials:</p>
-            <div class="space-y-1 text-sm text-secondary">
-                <p><strong>Admin:</strong> admin@educampus.com / password</p>
-                <p><strong>Dosen:</strong> sarah.johnson@educampus.com / password</p>
-                <p><strong>Mahasiswa:</strong> sarah.student@educampus.com / password</p>
-            </div>
-        </div>
     </div>
 
     <script>
